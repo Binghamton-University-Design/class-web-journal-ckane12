@@ -4,9 +4,9 @@
   --link-color: #DBDBDB;
   --alt-link-color: #35ADDC;
   --body-color: #DBDBDB;
-  --light-grey: #ffffff;
-  --lighter-grey: #020D11;
-  --lightest-grey: #E2E3E3;
+  --light-grey: #35ADDC;
+  --lighter-grey: #35ADDC;
+  --lightest-grey: #35ADDC;
 }
 
 html {
