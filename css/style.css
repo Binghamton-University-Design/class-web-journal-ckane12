@@ -45,7 +45,7 @@ body {
 }
 
 #masthead {
-    background-color: var(--body-color);
+    background-color: var(--link-color);
     padding: 1em;
     text-align: right;
 }
@@ -87,12 +87,11 @@ h4 {
 }
 
 #masthead h4 a {
-    color: var(--link-color);
-    background-color: var(--body-color);
+    color: var(--body-color);
 }
 
 #masthead h4 a:hover {
-    color: var(--link-color) !important;
+    color: var(--background-color) !important;
 }
 
 #aside h2 {
@@ -106,15 +105,14 @@ h4 {
 a {
   white-space: nowrap;
   transition: color, background-color 0.333s ease-in-out;
-  padding: 0 .5em;
+  
   color: var(--link-color);
-  background-color: var(--alt-link-color);
+
   text-decoration: none;
 }
 
 a:hover {
     color: var(--alt-link-color) !important;
-    background-color: var(--link-color);
 }
 
 a:visited {
