@@ -65,7 +65,7 @@ body {
 #portrait-info a {
   transition: color, background-color .35s ease-in-out;
   padding: 3px 5px;
-  color: ##329ea8;
+  color: #329ea8;
   text-decoration: none;
   background-color: #FFFFFF;
 }
