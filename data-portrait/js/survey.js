@@ -111,7 +111,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(255, 255, 255);
 
   // Display all answers
   for (let i = 0; i < answers.length; i++) {
